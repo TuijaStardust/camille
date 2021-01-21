@@ -8,3 +8,6 @@ Another one of those projects that are unfinished because life... But I'm workin
 
 I'm not following the course exactly as it is in the videos, so some of the choices are purely mine. I also didn't copy paste the css & HTML from the course contents as suggested.
 I'll build up those later. Unless I get hired to create a real project instead.
+
+Notes:
+* ACF plugin is used for creating custom post types
