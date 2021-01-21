@@ -1,0 +1,18 @@
+/*
+    Theme Name: Camille
+    Author: Tuija Stardust
+    Version: 1.0
+*/
+
+body {
+    color: green;
+}
+
+h1 {
+    font-family: 'Lora', serif;
+}
+
+h2 {
+    font-family: 'Lora', serif;
+    font-weight: 200;
+}
